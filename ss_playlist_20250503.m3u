@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,BEIN SPORTS 1
+http://het102a.4rouwanda-shop.store/live/918454578001/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 1 LQ" group="unsorted" tvg-country="ar",  BEIN SPORTS 1 LQ
 http://1sn.ns1.name:18800/thegreenday99Skype/dgetgbgwg/3539
 #EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 2 LQ" group="unsorted" tvg-country="ar",  BEIN SPORTS 2 LQ
